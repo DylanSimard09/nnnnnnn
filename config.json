@@ -1,0 +1,12 @@
+{
+   "token": "MTA1ODU4NTkxNzU0OTQ0OTIyNg.GxAj6S.0_8ULoc9hJtLKB3wjzVoFT-DYCH9aYmflOjdho",
+   "color": "#ff8d00",
+   "prefix": "+",
+   "name": "Santa Claus",
+   "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
+   "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
+   "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
+   "owner": [
+      "1039921575027294258"
+   ]
+}
